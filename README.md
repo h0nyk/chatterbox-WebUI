@@ -35,7 +35,7 @@ What the original didn't have:
 ```bash
 git clone https://github.com/Saganaki22/chatterbox-WebUI
 cd chatterbox-WebUI
-install.bat
+install.bat or one-click-installer.bat
 ```
 
 ### Launch WebUI
