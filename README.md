@@ -47,6 +47,8 @@ Then open: **http://127.0.0.1:7860/**
 
 That's it! 🎉
 
+I've provided 11 high quality ENG voice samples to get you started, find them in /samples/*
+
 ---
 
 <img width="1200" alt="cb-big2" src="https://github.com/user-attachments/assets/bd8c5f03-e91d-4ee5-b680-57355da204d1" />
