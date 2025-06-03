@@ -1,4 +1,6 @@
-<img width="1200" alt="cb-big2" src="https://github.com/user-attachments/assets/bd8c5f03-e91d-4ee5-b680-57355da204d1" />
+
+![image](https://github.com/user-attachments/assets/f8614631-77ff-47e1-9b29-7e63a39e07d8)
+
 
 # Chatterbox TTS - Windows WebUI Fork
 
@@ -15,12 +17,6 @@
 - **Automatic environment setup** with CUDA 11.8 support
 - **No technical knowledge required** - just run `install.bat`
 - **Instant launcher** - double-click `run_tts.bat` to start
-
-### **🌐 Enhanced Gradio WebUI**
-- **Professional web interface** accessible at `http://127.0.0.1:7860/`
-- **Voice cloning capabilities** with reference audio upload
-- **Real-time parameter adjustment** (exaggeration, temperature, CFG/pace)
-- **Example prompts** and intuitive controls
 
 ### **🚀 Smart Long-Form Processing** *(New Feature!)*
 What the original didn't have:
@@ -52,6 +48,8 @@ Then open: **http://127.0.0.1:7860/**
 That's it! 🎉
 
 ---
+
+<img width="1200" alt="cb-big2" src="https://github.com/user-attachments/assets/bd8c5f03-e91d-4ee5-b680-57355da204d1" />
 
 ## 📖 About Chatterbox TTS
 
