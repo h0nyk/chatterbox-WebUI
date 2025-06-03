@@ -31,11 +31,15 @@ What the original didn't have:
 
 ## 🚀 Quick Start (Windows)
 
-### Installation (30 seconds)
+### One click installation (try this method first)
+Download [`one-click-installer.bat`](https://github.com/Saganaki22/chatterbox-WebUI/releases/tag/oneclick)
+and just run
+
+### Installation (use this method if one-click installation fails)
 ```bash
 git clone https://github.com/Saganaki22/chatterbox-WebUI
 cd chatterbox-WebUI
-install.bat or one-click-installer.bat
+install.bat
 ```
 
 ### Launch WebUI
