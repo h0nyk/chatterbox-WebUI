@@ -15,7 +15,7 @@
 
 ### **🎯 One-Click Windows Installation**
 - **Automatic environment setup** with CUDA 11.8 support
-- **No technical knowledge required** - just run `one-click-installer.bat` or `install.bat`
+- **No technical knowledge required** - just run [`one-click-installer.bat`](https://github.com/Saganaki22/chatterbox-WebUI/releases/tag/oneclick) or `install.bat`
 - **Instant launcher** - double-click `run_tts.bat` to start
 
 ### **🚀 Smart Long-Form Processing** *(New Feature!)*
