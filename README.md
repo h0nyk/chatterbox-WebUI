@@ -103,7 +103,7 @@ python -m venv myenv
 myenv\Scripts\activate.bat
 
 # Install PyTorch with CUDA 11.8
-pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0 --index-url https://download.pytorch.org/whl/cu118
 
 # Install ChatterboxTTS and Gradio
 pip install chatterbox-tts gradio
